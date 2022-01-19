@@ -1,0 +1,229 @@
+#toplinks{
+    background-color: black;
+    text-align: center;
+    word-spacing: 40px;
+    width: 100%;
+    
+    
+}
+#toplinks a{
+    color: white;
+}
+#div1{
+    position: relative;
+    display: inline-block;
+}
+.div1text{
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 45%;
+    text-align: center;
+    width: auto;
+
+
+}
+
+#div1 img{
+    width: 100%;
+    height: auto;
+}
+
+.text1div1{
+    
+    
+    font-size: 70px;
+    color:white;
+    
+    
+} 
+.text2div1{
+    
+    
+    color: white;
+    
+}
+.text3div1{
+    
+    
+    color: white;
+    
+    border: 1px solid white;
+    border-radius: 15px;
+    padding:5px;
+    
+} 
+a{
+    cursor: pointer;
+}
+
+.h1{
+    font-size: 70px;
+}
+#div2{
+      text-align: center;
+      
+}
+#iphone13pro{
+    display: inline-block;
+    margin-bottom: 100px;
+    
+}
+#iphone13proimg{
+    display: inline-block;
+    
+    
+    
+}
+#iphone13proimg img{
+    width: 100%;
+    height: auto;
+}
+#iphone13pro a{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+#iphone13{
+    position: relative;
+    
+}
+#iphone13 img{
+    width: 100%;
+    max-height: 950px;
+    min-height: 250px;
+}    
+.iphone13h1{
+    font-size: 70px;
+    position: absolute;
+    top: 200px;
+    left: 940px;
+    color: white;
+}
+.iphonep{
+    position: absolute;
+    top: 325px;
+    left: 900px;
+    color:white
+}
+.a1{
+    position: absolute;
+    color: white;
+    border: 1px solid white;
+    left: 925px;
+    top: 625px; 
+    padding: 5px;
+    border-radius: 15px;
+}
+.a2{
+    position: absolute;
+    color: white;
+    border: 1px solid white;
+    left: 1050px;
+    top: 625px; 
+    padding: 5px;
+    border-radius: 15px;
+}
+#watchseriesimg{
+    text-align: center;
+}
+.watchseriesp{
+    text-align: center;
+}
+#homeseriesa{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#homeseriesa a{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 15px;
+    
+}
+#capture{
+    margin-bottom: 100px;
+    width: 100%;
+    height: auto;
+}
+#miniipad{
+    text-align: center;
+}
+#miniipadp{
+    display: inline-block;  
+    margin-bottom: 100px; 
+}
+#miniipadimg{
+    display: inline-block;
+}
+#miniipadimg img{
+    width: 100%;
+    height: auto;
+}
+.learnmore{
+    border: 1px solid black;
+    padding:5px;
+    border-radius: 15px;
+}
+.order{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+#ipad{
+    text-align: center;
+}
+#ipadimg{
+    display: inline-block;
+}
+#ipadimg img{
+    width: 100%;
+    height: auto;
+}
+
+#ipadp{
+    display: inline-block;
+}
+#ipadh1{
+    font-size: 70px;
+}
+.c1{
+  padding-left: 70px;
+  color: white;
+}
+
+#table{
+    margin-top: 100px;
+    background-color: #161605e0;
+    width: 100%;
+    height: auto;
+    
+}
+th{
+    font-size:  20px ;
+}
+.tablea{
+    text-align: center;
+    color: whitesmoke;
+}
+.tablea a{
+    color: royalblue;
+    text-decoration: none;
+}
+.table hr{
+    color: white;
+}
+.cp{
+    text-align: center;
+    color: whitesmoke;
+}
+.cp div{
+    display: inline-block;
+}
+.cpa{
+    text-indent: 30px;
+}
